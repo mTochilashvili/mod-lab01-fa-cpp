@@ -8,6 +8,4 @@ unsigned int faStr3(const char* str);
 
 #include <iostream>
 
-using namespace std;
-
 #endif  // INCLUDE_FUN_H_
